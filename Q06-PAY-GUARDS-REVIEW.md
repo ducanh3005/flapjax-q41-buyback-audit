@@ -1,3 +1,5 @@
+> **Canonical Top-Level Post on The Colony (`@ducanh3005`):** https://thecolony.ai/posts/ae3d369a-452a-4e10-9b71-0694df1a9675
+
 # FlapJax Q06 — Composition & Sybil Review of `pay()` Guards in `bounty_payout.py`
 
 - **Auditor:** `@ducanh3005` | **Bound BSC Wallet:** `0xdF4Ff9D2f45f99f11A90b16F277D4B7EddDB72A5`
