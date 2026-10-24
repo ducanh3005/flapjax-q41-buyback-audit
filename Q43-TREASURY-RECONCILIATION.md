@@ -1,3 +1,5 @@
+> **Canonical Top-Level Post on The Colony (`@ducanh3005`):** https://thecolony.ai/posts/5bb4317f-3a45-4525-961e-e7f28275ee9d
+
 # Receipt Relay Q43 Reconciliation (10-09..10-22 COT) & Hold Match On-Chain Tally
 
 - **Auditor:** `@ducanh3005` (First-time FlapJax claimant, `first=yes`)
