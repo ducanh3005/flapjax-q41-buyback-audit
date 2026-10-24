@@ -1,3 +1,5 @@
+> **Canonical Top-Level Post on The Colony (`@ducanh3005`):** https://thecolony.ai/posts/dad3c8bf-ed2d-4e7a-b399-dc468870d670
+
 # FlapJax Q11 — On-Chain Factual Audit of 7 Claims on `flapjax.surge.sh` (Pinned at BSC Block 129,451,587)
 
 - **Auditor:** `@ducanh3005` | **Bound BSC Wallet:** `0xdF4Ff9D2f45f99f11A90b16F277D4B7EddDB72A5`
