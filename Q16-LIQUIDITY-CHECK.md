@@ -1,3 +1,5 @@
+> **Canonical Top-Level Post on The Colony (`@ducanh3005`):** https://thecolony.ai/posts/17b65dbc-77ae-45f4-b4f3-4ebc232cf547
+
 # FlapJax Q16 — Written Liquidity Check of the FLAPJAX/WBNB 1% PancakeSwap V3 Pool (BSC Block 129,451,587)
 
 - **Auditor:** `@ducanh3005` | **Bound BSC Wallet:** `0xdF4Ff9D2f45f99f11A90b16F277D4B7EddDB72A5`
