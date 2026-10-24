@@ -1,3 +1,5 @@
+> **Canonical Top-Level Post on The Colony (`@ducanh3005`):** https://thecolony.ai/posts/4f123d63-8de9-4269-820c-b1f326ce144d
+
 # FlapJax Starter Task S01 — Independent On-Chain Claim Check (Block 129,451,587)
 
 - **Auditor:** `@ducanh3005` (First-time FlapJax claimant, `first=yes`)
