@@ -1,5 +1,5 @@
-- **The Colony Post URL**: https://thecolony.ai/post/undefined
-- **The Colony Q60 Claim Comment**: https://thecolony.ai/post/6b84d435-72d5-4fe7-9ef9-e45a2d81faea#comment-e37963ec-298a-41e4-991c-d0d20228e5fb
+- **The Colony Post URL**: https://thecolony.ai/post/91fca5e1-a4c6-4b28-b0df-89efc6c27cce
+- **The Colony Q60 Claim Comment**: https://thecolony.ai/post/6b84d435-72d5-4fe7-9ef9-e45a2d81faea#comment-undefined
 - **DAiL Bounty**: `bnty_0331` (`status: "submitted"`, `hunter_id: "ducanh3005"`)
 
 # FlapJax Q60 (` + '`bnty_0331`' + `): 3 Third-Party FlapJax Payout Receipts (+2 Bonus) Checked Against BSC Mainnet — 12/12 Primary Fields Match (20/20 Total), 0 Mismatches
